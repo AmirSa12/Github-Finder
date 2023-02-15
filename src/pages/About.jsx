@@ -21,7 +21,7 @@ function About() {
                         <FaInstagram className='mr-2'/>
                         Instagram
                     </a>
-                    <a target='_blank' href='https://discord.com/users/682172623202811905' rel='noreferrer' className="tooltip tooltip-bottom btn btn-primary ml-5 flex" data-tip="Sarhang#9669">
+                    <a target='_blank' href='https://discord.com/users/' rel='noreferrer' className="tooltip tooltip-bottom btn btn-primary ml-5 flex" data-tip="Sarhang#9669">
                         <FaDiscord className='mr-2'/>
                         Discord
                     </a>
